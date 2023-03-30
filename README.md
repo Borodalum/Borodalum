@@ -22,3 +22,4 @@ I'm a Computer Science student of ITMO Unversity from Saint-Petersburg. In my gi
 - Understanding how HTTPS protocol works
 - SQL (base level)
 - Bash (base level)
+- Git
