@@ -16,7 +16,7 @@ I'm a Computer Science student of ITMO Unversity from Saint-Petersburg. In my gi
 
 ### Languages:
 - Java
-- C++ (beginner)
+- C++
 
 ### Technologies and other knowledge: 
 - Understanding how HTTPS protocol works
