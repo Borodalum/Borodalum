@@ -17,9 +17,10 @@ I'm a Computer Science student of ITMO Unversity from Saint-Petersburg. In my gi
 ### Languages:
 - Java
 - C++
+- Scala
 
 ### Technologies and other knowledge: 
 - Understanding how HTTPS protocol works
 - SQL (base level)
-- Bash (base level)
+- Bash
 - Git
