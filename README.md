@@ -18,6 +18,7 @@ Hi! I'm Ivan Grishin, Computer Science student of ITMO Unversity from Saint-Pete
 - Linux and Bash
 - Git
 
+# Additional
 ### My favourite courses: 
 - Scala!
 - Algorithms and Data Structures 
