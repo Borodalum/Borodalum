@@ -3,15 +3,22 @@ Hi! I'm Ivan Grishin, Computer Science student of ITMO Unversity from Saint-Pete
 
 # Knowledge
 ### Languages:
-- Scala
+- Kotlin
 - Java
+- Scala
 - C++
 
 ### Frameworks and technologies
+#### Java/Kotlin
+- Spring
+- Spring Boot
+- jOOQ
+
 #### Scala
 - cats-effect
 - doobie
 - sttp tapir
+- 
 #### Other
 - PostgreSQL
 - docker and docker-compose
@@ -20,6 +27,7 @@ Hi! I'm Ivan Grishin, Computer Science student of ITMO Unversity from Saint-Pete
 
 # Additional
 ### My favourite courses: 
+- Java advanced (Java Core)
 - Scala!
 - Algorithms and Data Structures 
 - Mathematical analysis
