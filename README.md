@@ -18,7 +18,7 @@ Hi! I'm Ivan Grishin, Computer Science student of ITMO Unversity from Saint-Pete
 - cats-effect
 - doobie
 - sttp tapir
-- 
+
 #### Other
 - PostgreSQL
 - docker and docker-compose
